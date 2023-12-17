@@ -1,0 +1,1 @@
+AddCharModel(554, 20001, "yosemite.dff", "yosemite.txd");
